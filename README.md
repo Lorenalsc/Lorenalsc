@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there! I'm *Lorena*! 👋
+#### 🍎   *iOS Developer*
+#### 🐶   *Veterinarian*
+#### 📱   *I'm currently working on a personal app!*
+#### 🧠   *I love to learn new things!*
+#### 🌍   *English / Portuguese*
+#### 🇧🇷   *Brazilian*
+_____________________________________________________
 
-<!--
-**Lorenalsc/Lorenalsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Swift](https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)
 
-Here are some ideas to get you started:
+______________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+
+<a href = "mailto:medvet.lorena91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href ="https://www.linkedin.com/in/lorena-carvalho-4a5444179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
